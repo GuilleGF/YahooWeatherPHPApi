@@ -16,9 +16,12 @@
             "email": "hi@carlos.io"
         }
     ],
+    "require": {
+        "guzzlehttp/guzzle": "4.*"
+    },
     "autoload": {
         "psr-0": {
-            "Kata": "src/"
+            "Weather": "src/"
         }
     },
     "config": {
