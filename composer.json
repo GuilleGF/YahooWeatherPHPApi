@@ -1,8 +1,8 @@
 {
-    "name": "kata/php",
-    "description": "PHP Kata skeleton",
-    "keywords": ["kata","TDD"],
-    "homepage": "https://github.com/carlosbuenosvinos/php-kata",
+    "name": "YahooWeatherAPI",
+    "description": "PHP Yahoo Weather API Connector",
+    "keywords": ["Yahoo", "Weather", "PHP"],
+    "homepage": "https://github.com/GuilleGF/YahooWeatherPHPApi",
     "type": "library",
     "require-dev": {
         "phpunit/phpunit": "3.7.*@dev",
@@ -12,8 +12,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Carlos Buenosvinos",
-            "email": "hi@carlos.io"
+            "name": "Guillermo Gonzalez",
+            "email": "guillermo.gonzaleza@atrapalo.com"
+        },
+        {
+            "name": "Sergi Bech",
+            "email": "sergi.bech@atrapalo.com"
         }
     ],
     "require": {
